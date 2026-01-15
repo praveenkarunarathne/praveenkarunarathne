@@ -4,7 +4,7 @@
   <h3>Systems Engineer | Automation Architect | Full Stack Developer</h3>
   <p><i>Building high-concurrency network tools, resilient cloud scripts, and intelligent bots.</i></p>
 
-  <a href="https://linkedin.com/in/praveenkarunarathne">
+  <a href="https://www.linkedin.com/in/praveen-bhanuka-karunarathne-537053357">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/channel/UCgsvJJMjLJSIOmOYqa-Zf8w">
