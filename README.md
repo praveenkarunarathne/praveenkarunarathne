@@ -75,7 +75,7 @@ Additional details on my most complex and robust engineering work.
 | **[HTTP-to-TFTP Bridge](https://github.com/praveenkarunarathne/HTTP-to-TFTP-Bridge)** | UDP server bridging HTTP downloads to legacy TFTP clients. Essential for PXE boot. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) `net/packet` |
 | **[Marzban TCP Proxy](https://github.com/praveenkarunarathne/Marzban-Proxy)** | Lightweight, stateless TCP tunnel optimized for Cloud Run containers. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) `Docker` |
 | **[My Assistant Bot](https://github.com/praveen28624/MyAssistant)** | Multi-purpose Pyrogram bot for AI Chat (Kuki) and Music APIs. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) `Pyrogram` |
-| **[Apps Script Proxy](https://github.com/praveenkarunarathne)** | Secure HTTP proxy running on Google to bypass CORS restrictions for frontend apps. | ![GAS](https://img.shields.io/badge/-Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white) |
+| **[Apps Script Proxy](https://github.com/praveenkarunarathne/Google-Apps-Script-Simple-HTTP-Proxy)** | Secure HTTP proxy running on Google to bypass CORS restrictions for frontend apps. | ![GAS](https://img.shields.io/badge/-Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white) |
 | **[Oracle IP Viewer](https://github.com/praveenkarunarathne/Oracle-Public-IP-Ranges-Viewer)** | Reactive web dashboard to filter and visualize Oracle Cloud public IP ranges. | ![JS](https://img.shields.io/badge/-Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
