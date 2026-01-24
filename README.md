@@ -1,63 +1,88 @@
 # Praveen Karunarathne
 
 <div align="center">
-  <h3>Systems Engineer | Automation Architect | Full Stack Developer</h3>
-  <p><i>Building high-concurrency network tools, resilient cloud scripts, and intelligent bots.</i></p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Systems+Engineer;Automation+Architect;Full+Stack+Developer;Cloud+Infrastructure+Expert;Network+Protocol+Specialist" alt="Typing SVG" />
+  </a>
+  
+  <p align="center">
+    <br/>
+    <i>Architecting resilient cloud systems, high-concurrency network tools, and intelligent automation bots.</i>
+    <br/>
+  </p>
 
-  <a href="https://www.linkedin.com/in/praveen-bhanuka-karunarathne-537053357">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCgsvJJMjLJSIOmOYqa-Zf8w">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/praveen-bhanuka-karunarathne-537053357">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCgsvJJMjLJSIOmOYqa-Zf8w">
+      <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="mailto:praveen.karunarathne01@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=praveenkarunarathne&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  </div>
 </div>
 
 <br />
 
 ## ⚡ Technical Profile
 
-I am a **Systems-focused Engineer** driven by automation. I specialize in dissecting complex workflows and scripting efficient solutions—whether it's managing **Oracle Cloud** infrastructure with Shell scripts, building low-level **Network Proxies** in Go, or developing sophisticated **Telegram Bots** in Python. My work spans the full stack, from **Android** mobile apps to serverless **Google Apps Script** backends.
+I am a **Systems-focused Engineer** specializing in the intersection of **Cloud Infrastructure**, **Network Programming**, and **Automation**. My passion lies in dissecting complex workflows and scripting efficient, scalable solutions. Whether it's managing **Oracle Cloud** infrastructure with self-healing scripts, building low-level **Network Proxies** in Go, or developing sophisticated **Telegram Bots** in Python, I build tools that work harder so you don't have to.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praveenkarunarathne&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" alt="Praveen's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkarunarathne&layout=compact&theme=gotham&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</div>
 
 ---
 
 ## 🛠️ Technology Stack
 
-| Domain | Core Technologies |
+<div align="center">
+
+| Core & Systems | Cloud & DevOps | Web & Mobile |
+|:---:|:---:|:---:|
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) <br> ![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) <br> ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) <br> ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br> ![Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white) |
+
+</div>
+
+---
+
+## 🏆 Flagship Projects
+
+Additional details on my most complex and robust engineering work.
+
+| Project | Key Features & Tech |
 | :--- | :--- |
-| **Network Engineering** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) **TCP/IP** **TFTP** **UDP** **Proxying** |
-| **Cloud & Systems** | ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| **Bot Automation** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Pyrogram** **V2Ray** **Google Apps Script** |
-| **Frontend & Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) **Jetpack Compose** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[Marzban Subscription Dashboard](https://github.com/praveenkarunarathne/Marzban-User-Subscription-Link-Management-Dashboard)**<br>_Serverless User Management System_ | • **Serverless Backend**: Built entirely on Google Apps Script & Drive.<br>• **Seamless Sync**: Real-time Webhook integration with Marzban Server.<br>• **Security**: Password-protected UI with automated file management.<br>![GAS](https://img.shields.io/badge/-Google_Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **[Oracle Cloud Auto-Provisioner](https://github.com/praveenkarunarathne/Oracle_Cloud_Out_Of_Capacity_Script)**<br>_High-Availability Infrastructure Tool_ | • **Smart Automation**: Continuously monitors and snipes "Always Free" instances.<br>• **Multi-Arch**: Supports both AMD (Micro) and Ampere (A1 Flex) shapes.<br>• **Notification System**: Instant Telegram alerts upon successful provisioning.<br>![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **[Wi-Fi Direct Hotspot](https://github.com/praveenkarunarathne/wifi-direct-app)**<br>_P2P Mesh Networking App_ | • **Offline Connectivity**: Full device-to-device communication without Internet.<br>• **Socket Layer**: Custom TCP implementation for reliable data transfer.<br>• **Modern Android**: Built for Android 13+ with strict permission handling.<br>![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/-Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white) |
+
+<br/>
+
+## 🛠️ Utilities & Tools
+
+ Specialized scripts and proxies designed for specific engineering challenges.
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[HTTP-to-TFTP Bridge](https://github.com/praveenkarunarathne/HTTP-to-TFTP-Bridge)** | UDP server bridging HTTP downloads to legacy TFTP clients. Essential for PXE boot. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) `net/packet` |
+| **[Marzban TCP Proxy](https://github.com/praveenkarunarathne/Marzban-Proxy)** | Lightweight, stateless TCP tunnel optimized for Cloud Run containers. | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) `Docker` |
+| **[My Assistant Bot](https://github.com/praveen28624/MyAssistant)** | Multi-purpose Pyrogram bot for AI Chat (Kuki) and Music APIs. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) `Pyrogram` |
+| **[Apps Script Proxy](https://github.com/praveenkarunarathne)** | Secure HTTP proxy running on Google to bypass CORS restrictions for frontend apps. | ![GAS](https://img.shields.io/badge/-Apps_Script-4285F4?style=flat-square&logo=googleappsscript&logoColor=white) |
+| **[Oracle IP Viewer](https://github.com/praveenkarunarathne/Oracle-Public-IP-Ranges-Viewer)** | Reactive web dashboard to filter and visualize Oracle Cloud public IP ranges. | ![JS](https://img.shields.io/badge/-Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
-## 🚀 Featured Projects
-
-### 📡 Network Infrastructure
-#### [HTTP-to-TFTP Bridge](https://github.com/praveenkarunarathne/HTTP-to-TFTP-Bridge)
-> Custom UDP server written in **Go** that bridges HTTP downloads to TFTP clients. Ideal for PXE boot environments.
-> * **Tech**: Go `net/packet`, HTTP Client, Binary Stream Manipulation.
-
-#### [Go TCP Proxy](https://github.com/praveenkarunarathne/Marzban-Proxy)
-> Extremely lightweight TCP tunnel optimized for **Cloud Run** stateless containers.
-> * **Tech**: Go `io.Copy`, Goroutines, Docker Alpine.
-
-### 🤖 Automation & Bots
-#### [My Assistant & Song Bot](https://github.com/praveen28624/MyAssistant)
-> A suite of Python **Pyrogram** bots handling tasks from AI Chat (using Kuki API) to multi-platform music downloading (YouTube Music & Deezer).
-> * **Tech**: Python, Pyrogram, YTMusicAPI, Deezer, AsyncIO.
-
-#### [Oracle Cloud Automation](https://github.com/praveenkarunarathne/Oracle_Cloud_Out_Of_Capacity_Script)
-> Set of mission-critical scripts for managing Oracle Cloud resources, including automated backups (`tar`/`mount` orchestration) and capacity claimers.
-> * **Tech**: Bash/Shell, Python, Cron.
-
-### 📱 Applications
-#### [WiFi Direct Hotspot](https://github.com/praveenkarunarathne/wifi-direct-app)
-> Modern Android application built with **Jetpack Compose** to manage P2P WiFi connections.
-> * **Tech**: Kotlin, Android SDK 34, Material Design 3.
-
-#### [Oracle IP Viewer](https://github.com/praveenkarunarathne/Oracle-Public-IP-Ranges-Viewer)
-> Reactive web utility to search and filter Oracle Cloud IP ranges.
-> * **Tech**: Vanilla JavaScript, DOM API, Fetch API.
-
----
+<div align="center">
+  <p><b>Always building. Always automating.</b></p>
+  <a href="https://github.com/praveenkarunarathne?tab=followers">
+    <img src="https://img.shields.io/github/followers/praveenkarunarathne?label=Follow&style=social" alt="Follow" />
+  </a>
+</div>
